@@ -1,14 +1,12 @@
 [
   { 
     "url": "https://apidd.czssdgz.com", 
-    "sort": 1, 
-    "type": "国内", 
+    "name": "国内1", 
     "enabled": true 
   },
   { 
     "url": "https://jdforrepam.com", 
-    "sort": 99, 
-    "type": "国外", 
+    "name": "国外", 
     "enabled": true 
   }
 ]
